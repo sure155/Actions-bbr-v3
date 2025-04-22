@@ -63,7 +63,7 @@ A: 别慌！记得备份你的内核，或者到 [sure155](https://sure155.net) 
 
 ### 🌈 作者信息  
 
-**Joey**  
+**sure155**  
 📖 博客：[sure155](https://sure155.net)  
 💬 群组：[Telegram Feedback Group](https://t.me/+ft-zI76oovgwNmRh)
 
